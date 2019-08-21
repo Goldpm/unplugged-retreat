@@ -98,6 +98,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   /* -------------------- Base Header - Footer Styles -------------------- */
+ header,
+ footer {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-flow: row wrap;
+ }
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -263,4 +271,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
