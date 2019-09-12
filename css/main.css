@@ -133,11 +133,19 @@ p {
 }
 
 img {
-
+	width: 100%;
 }
 
 figure {
+        margin: 0;
+}
 
+header figure {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
 }
 
 address {
