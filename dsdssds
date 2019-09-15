@@ -1,0 +1,83 @@
+[33mcommit beb7d13596f012afd8191bd8000579aa8c715198[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Sat Sep 14 19:58:27 2019 -0400
+
+    renamed web-ready images
+
+[33mcommit 3172b701a770509c766cd62ad8373c3400a14f1f[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Sat Sep 14 19:56:16 2019 -0400
+
+    renamed web-ready images
+
+[33mcommit 2b206bbca26be0ccb1ae8a9ac822da756fe1ff8b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 04:22:32 2019 -0400
+
+    added figure styles
+
+[33mcommit 3b5f5a34ea60e388212d661d575c5aec5f2c1799[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 04:22:05 2019 -0400
+
+    added figure
+
+[33mcommit 1616f24cc0d326697b53ebdf1b61a2331d9a010f[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 04:13:29 2019 -0400
+
+    created web ready versions of images
+
+[33mcommit 3eedeb247a5122c543e3708109eec978ce70cd65[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 03:56:44 2019 -0400
+
+    added aside .form styles
+
+[33mcommit 89efd3741700a72136dedb7eda4e12c5daa24ac1[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 03:52:17 2019 -0400
+
+    added global styles
+
+[33mcommit 5c7d56cf304db9ee5200b4752435d69513f5f1a7[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 03:51:49 2019 -0400
+
+    added google fonts
+
+[33mcommit eab686b2e56e8d71a601577aa26c729fd1d28a8a[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 02:58:57 2019 -0400
+
+    added tablet breakpoint
+
+[33mcommit b809749d01a699f66bc6fcac2dc75dfe77fd1262[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Thu Sep 12 01:36:09 2019 -0400
+
+    added layout css
+
+[33mcommit 110ede7a1ea64cd0931ade557d68ee302fec3c3e[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Tue Aug 20 23:44:28 2019 -0400
+
+    Added some flex code
+
+[33mcommit 78d6c8f6f45b63f58291d3d80f88e4054e9604a4[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Fri Aug 9 10:04:54 2019 -0400
+
+    filled in framework a little
+
+[33mcommit 3258c44943ad1da1588eed24bb54eacaf647a0e5[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Fri Aug 9 10:00:51 2019 -0400
+
+    added site structure
+
+[33mcommit 2d6286d1c0e26c6c881ba6220d0ef8bef1106808[m
+Author: Goldpm <lowedavidadam@gmail.com>
+Date:   Fri Aug 9 09:46:05 2019 -0400
+
+    initial commit
